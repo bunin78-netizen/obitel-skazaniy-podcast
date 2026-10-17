@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Обитель сказаний</title>
+    <link>https://t.me/ObitelSkazaniy</link>
+    <atom:link href="https://fundarbas.space/obitel/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Аудиосказания: мистика, фантастика, тёмная проза. Одна история за раз, пять-восемь минут. Голос Хранительницы. Новые сказания — по вторникам и субботам.</description>
+    <language>ru</language>
+    <copyright>Обитель сказаний</copyright>
+    <itunes:author>Обитель сказаний</itunes:author>
+    <itunes:summary>Аудиосказания на ночь: мистика, фантастика, тёмная проза. Одна история за раз.</itunes:summary>
+    <itunes:owner><itunes:name>Обитель сказаний</itunes:name><itunes:email>obitel@fundarbas.space</itunes:email></itunes:owner>
+    <itunes:image href="https://fundarbas.space/obitel/cover.jpg"/>
+    <image><url>https://fundarbas.space/obitel/cover.jpg</url><title>Обитель сказаний</title><link>https://t.me/ObitelSkazaniy</link></image>
+    <itunes:category text="Fiction"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>№1. Прямой эфир</title>
+      <description>Ночной радиоведущий принимает звонок из 1998 года. Девочка просит поставить песню, которой не существует. Голос в трубке обещает, что до утра они будут вместе. А за стеклом студии уже кто-то стоит и ждёт. Следующее сказание — в субботу.</description>
+      <guid isPermaLink="false">obitel-01</guid>
+      <pubDate>Mon, 12 Oct 2026 17:50:00 +0000</pubDate>
+      <enclosure url="https://fundarbas.space/obitel/ep01.mp3" length="5693301" type="audio/mpeg"/>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>№2. Последний маршрут</title>
+      <description>Двенадцать минут до конца смены. В автобусе горит одна лампа из шести, и на остановке у лесопарка поднимается женщина в сером пальто. Она просит довезти до Пятого километра. Такой остановки нет уже три года. Следующее сказание — в субботу.</description>
+      <guid isPermaLink="false">obitel-02</guid>
+      <pubDate>Mon, 12 Oct 2026 18:00:03 +0000</pubDate>
+      <enclosure url="https://fundarbas.space/obitel/ep02.mp3" length="4110843" type="audio/mpeg"/>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>№3. Элемент 61</title>
+      <description>Бронзовый диск из сибирского кургана весит меньше, чем должен. Внутри — пустая каверна и сплав, который не мог отлить ни один древний литейный двор. Физик Вера Иванова выясняет: это не реликвия, а устройство. Оно открывает нору на одиннадцать секунд, и ему нужно топливо — редчайший элемент, которого в её времени почти не осталось. Следующее сказание — во вторник. Рисунок — тушь и штрих.</description>
+      <guid isPermaLink="false">obitel-03</guid>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://fundarbas.space/obitel/ep03.mp3" length="7577203" type="audio/mpeg"/>
+      <itunes:duration>00:07:53</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
