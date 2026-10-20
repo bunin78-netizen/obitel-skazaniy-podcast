@@ -64,5 +64,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№4. Второе топливо</title>
+      <description>Курган вскрыт: ни костей, ни посуды, ни украшений. Только бронзовый ящик с кольцевым пазом — ровно под тот диск, что лежит у Веры Ивановой во внутреннем кармане. Внутри — двенадцать чёрных цилиндров и записка 1974 года от человека, который не вернулся домой. Следующее сказание — в субботу. Рисунок — тушь и штрих.</description>
+      <itunes:summary>Курган вскрыт: ни костей, ни посуды, ни украшений. Только бронзовый ящик с кольцевым пазом — ровно под тот диск, что лежит у Веры Ивановой во внутреннем кармане. Внутри — двенадцать чёрных цилиндров и записка 1974 года от человека, который не вернулся домой. Следующее сказание — в субботу. Рисунок — тушь и штрих.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-04</guid>
+      <pubDate>Tue, 20 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep04.mp3" length="7223927" type="audio/mpeg"/>
+      <itunes:duration>00:07:31</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
