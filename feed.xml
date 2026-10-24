@@ -79,5 +79,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№5. Обратный звонок</title>
+      <description>Марина три месяца не могла войти в квартиру матери. Вошла в сентябре — и нашла в шкафу старый автоответчик, который всё это время будто ждал электричества. На плёнке её голос: сначала про синюю куртку, купленную пять лет назад. Потом про вчерашний дождь и сломанный лифт. Потом про завтрашнее утро. Следующее сказание — во вторник. Рисунок — тушь и штрих.</description>
+      <itunes:summary>Марина три месяца не могла войти в квартиру матери. Вошла в сентябре — и нашла в шкафу старый автоответчик, который всё это время будто ждал электричества. На плёнке её голос: сначала про синюю куртку, купленную пять лет назад. Потом про вчерашний дождь и сломанный лифт. Потом про завтрашнее утро. Следующее сказание — во вторник. Рисунок — тушь и штрих.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-05</guid>
+      <pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep05.mp3" length="5039352" type="audio/mpeg"/>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
