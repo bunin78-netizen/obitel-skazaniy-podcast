@@ -94,5 +94,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№6. Часы в подъезде</title>
+      <description>В нашем доме пять этажей и нет лифта. Между третьим и четвёртым висят серые часы с трещиной поперёк стекла — и двадцать лет стоят на трёх сорока. В четверг я возвращался поздно и услышал, как они тикают. Утром вахтёрша сказала, что часы не заводят с девяносто четвёртого года. Баба Зина со второго этажа объяснила проще, без удивления: когда эти часы идут, в доме кто-то скоро умрёт. Она слышала их дважды. Я человек не суеверный. Я просто начал фотографировать их каждый вечер. Рисунок — тушь и штрих. Следующее сказание — в субботу.</description>
+      <itunes:summary>В нашем доме пять этажей и нет лифта. Между третьим и четвёртым висят серые часы с трещиной поперёк стекла — и двадцать лет стоят на трёх сорока. В четверг я возвращался поздно и услышал, как они тикают. Утром вахтёрша сказала, что часы не заводят с девяносто четвёртого года. Баба Зина со второго этажа объяснила проще, без удивления: когда эти часы идут, в доме кто-то скоро умрёт. Она слышала их дважды. Я человек не суеверный. Я просто начал фотографировать их каждый вечер. Рисунок — тушь и штрих. Следующее сказание — в субботу.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-06</guid>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep06.mp3" length="5067384" type="audio/mpeg"/>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
