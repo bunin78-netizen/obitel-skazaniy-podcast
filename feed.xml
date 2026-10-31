@@ -109,5 +109,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№7. Одиннадцать минут</title>
+      <description>Ночное дежурство в лаборатории: запустить установку на двенадцать минут, записать показания, поставить подпись. Первые две ночи прошли спокойно. На третью пропала моя кружка. И из журнала исчез лист, который я заполнил час назад своей рукой. Соседний зал закрыли на ремонт ещё зимой, вход заварили с двух сторон. Сегодня ночью дверь в него открыта, а за столом сидит человек в моей куртке. К утру установку разберут — по распоряжению, которое придёт после трёх слов, которых я не говорил. Следующее сказание — во вторник.</description>
+      <itunes:summary>Ночное дежурство в лаборатории: запустить установку на двенадцать минут, записать показания, поставить подпись. Первые две ночи прошли спокойно. На третью пропала моя кружка. И из журнала исчез лист, который я заполнил час назад своей рукой. Соседний зал закрыли на ремонт ещё зимой, вход заварили с двух сторон. Сегодня ночью дверь в него открыта, а за столом сидит человек в моей куртке. К утру установку разберут — по распоряжению, которое придёт после трёх слов, которых я не говорил. Следующее сказание — во вторник.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-07</guid>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep07.mp3" length="5090426" type="audio/mpeg"/>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
