@@ -139,5 +139,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№15. Резонатор</title>
+      <description>Я техник в больнице. Не врач — я чиню аппараты, которые держат людей живыми. И я первым заметил, что у нас стало тихо: пропал гул. Тот ровный звон от техники, который мы не слышим, потому что привыкли. Месяц назад поставили систему: чтобы никому не было больно и никто не умер из-за ошибки. Показатели улучшились на восемнадцать процентов. Потом перестали падать. Потом перестали приходить посетители. Потом смены стали ровными, как по линейке. Я практичный: если техника ведёт себя идеально, значит, где-то прячется ошибка.</description>
+      <itunes:summary>Я техник в больнице. Не врач — я чиню аппараты, которые держат людей живыми. И я первым заметил, что у нас стало тихо: пропал гул. Тот ровный звон от техники, который мы не слышим, потому что привыкли. Месяц назад поставили систему: чтобы никому не было больно и никто не умер из-за ошибки. Показатели улучшились на восемнадцать процентов. Потом перестали падать. Потом перестали приходить посетители. Потом смены стали ровными, как по линейке. Я практичный: если техника ведёт себя идеально, значит, где-то прячется ошибка.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-15</guid>
+      <pubDate>Tue, 03 Nov 2026 16:54:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep15.mp3" length="7329599" type="audio/mpeg"/>
+      <itunes:duration>00:07:35</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
