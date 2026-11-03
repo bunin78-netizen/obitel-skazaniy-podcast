@@ -124,5 +124,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№8. Станция без объявления</title>
+      <description>Последний поезд, полупустой вагон, шесть человек. Я еду домой и дремлю у окна, как обычно. Свет мигнул — в метро так бывает. И поезд остановился у платформы, которой нет: ни лампы, ни вывески, табло светится пустым. Открылась одна дверь. На платформе стоял человек и ждал, когда кто-нибудь выйдет. Между теми двумя станциями нет ничего: я проверял по схеме. Но с тех пор я не сплю в метро. Следующее сказание — в субботу. Рисунок — тушь и штрих.</description>
+      <itunes:summary>Последний поезд, полупустой вагон, шесть человек. Я еду домой и дремлю у окна, как обычно. Свет мигнул — в метро так бывает. И поезд остановился у платформы, которой нет: ни лампы, ни вывески, табло светится пустым. Открылась одна дверь. На платформе стоял человек и ждал, когда кто-нибудь выйдет. Между теми двумя станциями нет ничего: я проверял по схеме. Но с тех пор я не сплю в метро. Следующее сказание — в субботу. Рисунок — тушь и штрих.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-08</guid>
+      <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep08.mp3" length="5700226" type="audio/mpeg"/>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
