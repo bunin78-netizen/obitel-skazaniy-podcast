@@ -184,5 +184,20 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>№17. Счётчик</title>
+      <description>В нашем подъезде счётчик считает не киловатты. Я заметил это в феврале, когда меняли проводку. Электрик снял крышку, посмотрел внутрь и сказал: странный у вас аппарат. Обычный чёрный счётчик с четырьмя барабанами, как в старых фильмах. Стоял он там с семьдесят четвёртого года, и никто за сорок лет не задал ни одного вопроса. Я стал записывать показания. Через неделю картина стала ясной: числа на барабанах не растут. Они уменьшаются. На единицу в сутки. Четыре барабана — четыре квартиры. Потом приехал новый жилец. И его барабан начал крутиться в другую сторону.</description>
+      <itunes:summary>В нашем подъезде счётчик считает не киловатты. Я заметил это в феврале, когда меняли проводку. Электрик снял крышку, посмотрел внутрь и сказал: странный у вас аппарат. Обычный чёрный счётчик с четырьмя барабанами, как в старых фильмах. Стоял он там с семьдесят четвёртого года, и никто за сорок лет не задал ни одного вопроса. Я стал записывать показания. Через неделю картина стала ясной: числа на барабанах не растут. Они уменьшаются. На единицу в сутки. Четыре барабана — четыре квартиры. Потом приехал новый жилец. И его барабан начал крутиться в другую сторону.</itunes:summary>
+      <itunes:author>Обитель сказаний</itunes:author>
+      <itunes:image href="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/cover.jpg"/>
+      <guid isPermaLink="false">obitel-17</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://bunin78-netizen.github.io/obitel-skazaniy-podcast/ep17.mp3" length="5312498" type="audio/mpeg"/>
+      <itunes:duration>00:05:29</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
